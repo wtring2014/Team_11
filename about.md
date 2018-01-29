@@ -4,7 +4,8 @@
 #### Team members:
 - [Thiago De Mendonca](http://lamp.cse.fau.edu/~tdemendonca2017/index.html) 
 - Roberto Beltran
-
+- William Tring
+- Piotr Skipor
 
 
 
