@@ -1,6 +1,9 @@
-## About Team_11
+# About Team_11
+### Class CEN4010 - Project Milestones
 
-
+#### Team members:
+- Thiago De Mendonca
+- Roberto Beltran
 
 
 
