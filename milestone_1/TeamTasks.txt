@@ -1,5 +1,5 @@
 
-Current status:
+- Current status:
 
 Team Lead: Thiago De Mendonca
 Scrum Master: Piotr Skipor
@@ -7,7 +7,7 @@ Team Meeting Schedule: Thursday's (9am-10am)
 Front & Back End Leads: Thiago De Mendonca and William Tring
 GitHub Master: Thiago De Mendonca
 
-Milestone 1 Task Division:
+- Milestone 1 Task Division:
 
 Thiago: sections 1, 8 through 11.
 William: sections 4, 5.
