@@ -1,0 +1,13 @@
+So far I have contributed by creating the database for Inventory and User info, and importing the data.
+I have helped with the Balsalmiq models
+Submitted input to the documentations
+Created the Products.php and Search.php pages
+
+For the next assignment, my goal is to implement the shopping cart feature which would allow a user to add products
+  to the shopping cart from both the product and search pages. This also includes reserving rentals through the checkout page.
+
+
+I think our team needs to:
+  implement a user profile page, 
+   registration page (admin or student selection), 
+   and import product pictures to the database.
